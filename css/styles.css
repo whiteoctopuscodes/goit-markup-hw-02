@@ -20,7 +20,7 @@ header a {
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
 }
 .emblem span{
@@ -32,7 +32,7 @@ header a {
 .nav-link a{
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
 }
 .nav-link a:hover{
@@ -45,7 +45,7 @@ header a {
     color: var(--text-color);
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.02em;
 }
 .header-contacts:hover{
@@ -63,7 +63,7 @@ header a {
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
 }
 
@@ -71,7 +71,7 @@ header a {
     text-decoration: none;
     font-style: normal;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: #FFFFFF;
 }
@@ -82,7 +82,7 @@ footer {
     text-decoration: none;
     font-style: normal;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
@@ -99,7 +99,7 @@ footer {
 .hero h1{
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -109,7 +109,7 @@ footer {
     background-color: var(--hover-focus-color);
     font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.88;
     letter-spacing: 0.06em;
 }
 .advantages {
@@ -120,14 +120,14 @@ footer {
 .advantagelist h3{
     font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .advantagelist p {
     color: var(--text-color);
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71;
     letter-spacing: 0.03em;
 }
 .ourwork ul {
@@ -136,7 +136,7 @@ footer {
 .ourwork h2{
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.17;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -145,7 +145,7 @@ footer {
 .sectionteam h2{
     font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 1.17;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -155,13 +155,13 @@ footer {
 .team-member h3{
     font-weight: 500;
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.19;
     text-align: center;
     letter-spacing: 0.03em;
 }
 .team-member{
     font-size: 16px;
-    line-height: 19px;
+    line-height: 1.19;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -185,7 +185,7 @@ footer {
     font-family: 'Roboto';
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.63;
     text-align: center;
     letter-spacing: 0.03em;
     width: 145px;
@@ -215,13 +215,13 @@ footer {
     color: var(--main-text-color);
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2;
     letter-spacing: 0.06em;
 }
 .portfolio-item p {
     color: var(--text-color);
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.88;
     letter-spacing: 0.03em;
 }
 .portfolio-image {
